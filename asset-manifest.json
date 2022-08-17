@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/labirint/static/css/main.82c84add.css",
+    "main.js": "/labirint/static/js/main.65d1bc91.js",
+    "static/js/787.0cf5cde9.chunk.js": "/labirint/static/js/787.0cf5cde9.chunk.js",
+    "static/media/Montserrat-Regular.ttf": "/labirint/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/Montserrat-SemiBold.ttf": "/labirint/static/media/Montserrat-SemiBold.fa8441f345d83a0bc4ec.ttf",
+    "static/media/Montserrat-Medium.ttf": "/labirint/static/media/Montserrat-Medium.e2d60bc49517598c0ce8.ttf",
+    "static/media/Montserrat-Light.ttf": "/labirint/static/media/Montserrat-Light.02afb26fe72fcc052988.ttf",
+    "index.html": "/labirint/index.html",
+    "main.82c84add.css.map": "/labirint/static/css/main.82c84add.css.map",
+    "main.65d1bc91.js.map": "/labirint/static/js/main.65d1bc91.js.map",
+    "787.0cf5cde9.chunk.js.map": "/labirint/static/js/787.0cf5cde9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82c84add.css",
+    "static/js/main.65d1bc91.js"
+  ]
+}
